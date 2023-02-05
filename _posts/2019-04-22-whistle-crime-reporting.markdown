@@ -6,7 +6,7 @@ tag:
 - ruby on rails
 - sinatra
 - ruby
-image: https://github.com/decentralvision/whistle/blob/master/sinatra.png?raw=true
+image: /assets/images/sinatra.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
