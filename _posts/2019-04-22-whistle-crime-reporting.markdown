@@ -1,5 +1,5 @@
 ---
-title: "Whistle - Immutable crime reporting platform"
+title: "Whistle - MVP immutable crime reporting platform"
 layout: post
 date: 2019-04-22 22:10
 tag: 
