@@ -6,7 +6,7 @@ tag:
 - ruby on rails
 - sinatra
 - ruby
-image: /assets/images/sinatra.png
+image: /portfolio/assets/images/sinatra.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -16,7 +16,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio-and-blog/assets/images/whistle-screenshot.png)
+![Screenshot](/portfolio/assets/images/whistle-screenshot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
