@@ -16,7 +16,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/assets/images/whistle-screenshot.png)
+![Screenshot](/portfolio-and-blog/assets/images/whistle-screenshot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
