@@ -6,6 +6,7 @@ tag:
 - ruby
 - ruby on rails
 - sqlite
+- cli 
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
