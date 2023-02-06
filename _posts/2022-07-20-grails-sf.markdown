@@ -9,6 +9,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
+star: true
 hidden: true # don't count this post in blog pagination
 description: "Grails SF - React-Flask Shoe Consignment Platform."
 category: project

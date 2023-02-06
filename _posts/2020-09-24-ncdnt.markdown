@@ -2,6 +2,7 @@
 title: "NCDNT - API focused crime reporting platform."
 layout: post
 date: 2020-09-24
+star: true
 tag: 
 - ruby
 - ruby on rails
