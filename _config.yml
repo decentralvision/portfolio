@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://decentralvision.github.io/portfolio
+url: https://decentralvision.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -44,16 +44,11 @@ email: tombkunkel@gmail.com
 authors:
   tomkunkel:
     name: Tom Kunkel
-    bio: A Man who travels the world eating noodles
+    bio: Software Engineer and Project Manager
     external-image: false
     picture: assets/images/profile.jpg
     twitter: dcntrl_vsn
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
