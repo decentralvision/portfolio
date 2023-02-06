@@ -17,7 +17,7 @@ externalLink: false
 
 ![Screenshot](/portfolio/assets/images/clearfund-screenshot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://youtu.be/on8pdVFjldM). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Video Demo - Clearfund - [Demo](https://youtu.be/on8pdVFjldM). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
 
