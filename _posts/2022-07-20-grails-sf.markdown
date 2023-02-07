@@ -8,29 +8,33 @@ tag:
 - flask
 - square
 - shopify
+- postgreSQL
 
-image: /portfolio/assets/images/grailssf-logo.jpg
+image: /portfolio/assets/images/flask-logo.png
 headerImage: true
 projects: true
 star: true
 hidden: true # don't count this post in blog pagination
-description: "Grails SF - React-Flask Shoe Consignment Platform."
+description: "Grails SF - Flask and ReactJS Shoe Consignment Platform."
 category: project
 author: johndoe
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/clearfund-screenshot.png)
+![Screenshot](/portfolio/assets/images/grailssf-screenshot.png)
 
-Video Demo - Clearfund - [Demo](https://youtu.be/on8pdVFjldM). This video demo runs through some of the basic features of clearfund. 
+Video Demo - GrailsSF Consignment - [Demo](). This video demo runs through some of the basic features of the Grails SF Consignment Application.
 
 ---
 
 Made with:
 
-- SQLite
-- Ruby on Rails
-- Bootstrap
+- Postgresql
+- Flask
+- Python
+- ReactJS
+- Square
+- Shopify
 
 ---
 
