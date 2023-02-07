@@ -23,7 +23,7 @@ externalLink: false
 
 ![Screenshot](/portfolio/assets/images/grailssf-screenshot.png)
 
-Video Demo - GrailsSF Consignment - [Demo](). This video demo runs through some of the basic features of the Grails SF Consignment Application.
+GrailsSF Consignment Application. Some features of the application include: submitting items for consignment, processing sold consignment listing payouts, syncing three databases shopify, square, and postgres item databases, admin controls for confirming or removing pending item listings, among others. 
 
 ---
 
