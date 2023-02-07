@@ -1,5 +1,5 @@
 ---
-title: "NCDNT - API focused crime reporting platform."
+title: "NCDNT - API for Crime Reporting Platform"
 layout: post
 date: 2020-09-24
 star: true
@@ -13,13 +13,15 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "NCDNT - API focused crime reporting platform."
 category: project
-author: johndoe
+author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/clearfund-screenshot.png)
+![Screenshot](/portfolio/assets/images/NCDNT-screenshot.png)
 
-Video Demo - Clearfund - [Demo](https://youtu.be/on8pdVFjldM). This video demo runs through some of the basic features of clearfund. 
+This main feature of this project is an API. The oversimplified interface demonstrated in the following video is only an example of a possible interface for interacting with the API.
+
+Video Demo - NCDNT - [Demo](https://youtu.be/HnT_v9fv7Qc). This video demo runs a demo site interacting with the API.
 
 ---
 
