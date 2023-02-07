@@ -17,7 +17,7 @@ star: true
 hidden: true # don't count this post in blog pagination
 description: "Grails SF - Flask and ReactJS Shoe Consignment Platform."
 category: project
-author: johndoe
+author: tomkunkel
 externalLink: false
 ---
 
