@@ -23,7 +23,16 @@ externalLink: false
 
 ![Screenshot](/portfolio/assets/images/grailssf-screenshot.png)
 
-GrailsSF Consignment Application. Some features of the application include: submitting items for consignment, processing sold consignment listing payouts, syncing three databases shopify, square, and postgres item databases, admin controls for confirming or removing pending item listings, among others. 
+GrailsSF Consignment Application. Some features of the application include:
+- Full role based ReactJS interface for all routes
+- CRUD for consignment item listings
+    - Submitting item listings for consignment 
+    - Viewing existing consignment items
+    - Editing submitted item listings
+    - Processing sold and removed consignment listings 
+- Calculating payouts when an item is sold, payouts are processed manually in the store
+- Syncing three databases: Shopify, Square, and PostgreSQL item databases
+- Admin controls for confirming, removing or editing pending item listings 
 
 ---
 
