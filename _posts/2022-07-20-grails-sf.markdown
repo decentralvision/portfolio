@@ -3,10 +3,13 @@ title: "Grails SF - React-Flask Shoe Consignment Platform."
 layout: post
 date: 2022-07-20
 tag: 
-- ruby
-- ruby on rails
-- sqlite
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+- reactJS
+- python
+- flask
+- square
+- shopify
+
+image: /portfolio/assets/images/grailssf-logo.jpg
 headerImage: true
 projects: true
 star: true

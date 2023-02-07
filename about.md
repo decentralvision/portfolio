@@ -4,9 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am a diligent Full-Stack Web Developer skilled in Javascript, Python, Ruby, and their respective frameworks. I am also proficient with Shopify and Square. In addition to thirteen years of independent learning, I have completed the Software Engineering Certificate program from Flatiron School and a focus in Software Engineering from Harvard University Extension School. Although I enjoy learning new frameworks, I am most comfortable with Ruby on Rails, ReactJS, and Flask.</p>
+<p>As a highly motivated Full-Stack Web Developer, I bring a wealth of technical expertise and a passion for delivering innovative solutions. With a solid foundation in JavaScript, Python, Ruby, and their respective frameworks, as well as proficiency in Shopify and Square, I am confident in my ability to tackle complex web development projects.</p>
 
-<p>Excelling in creative problem solving and project management, I focus on elegant, optimized solutions. I enjoy collaborating on projects and integration initiatives, and aim to leverage a proven knowledge of application development, advanced technology, and database design skills to successfully fill the Developer role at your company.</p>
+<p>In addition to 13 years of self-driven learning, I have completed the Software Engineering Certificate program from Flatiron School and honed my skills through a focus in Software Engineering from Harvard University Extension School. While I am always eager to explore new technologies and frameworks, I have a particular expertise in Ruby on Rails, ReactJS, and Flask.</p>
+
+<p>With a proven track record of creative problem solving and effective project management, I take pride in delivering elegant and optimized solutions. I am a collaborative team player who thrives on integration initiatives, and I am eager to leverage my extensive knowledge of application development, advanced technology, and database design to make a valuable contribution as a Developer at your company.</p>
 
 <h2>Skills</h2>
 
