@@ -36,15 +36,4 @@ GrailsSF Consignment Application. Some features of the application include:
 
 ---
 
-Made with:
-
-- Postgresql
-- Flask
-- Python
-- ReactJS
-- Square
-- Shopify
-
----
-
 
