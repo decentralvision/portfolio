@@ -36,4 +36,5 @@ GrailsSF Consignment Application. Some features of the application include:
 
 ---
 
+![Screenshot](/portfolio/assets/images/grailssf-screenshot-2.png)
 
