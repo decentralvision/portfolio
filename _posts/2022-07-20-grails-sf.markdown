@@ -1,5 +1,5 @@
 ---
-title: "Grails SF - React and Flask Shoe Consignment Platform."
+title: "Grails SF - Flask and ReactJS Shoe Consignment Platform."
 layout: post
 date: 2022-07-20
 tag: 
