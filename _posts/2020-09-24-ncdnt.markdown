@@ -29,12 +29,12 @@ Video Demo - NCDNT - [Demo](https://youtu.be/HnT_v9fv7Qc). This video demo runs 
 ---
 
 Made with:
-
 - SQLite
 - Ruby on Rails
 - Bootstrap
 - jQuery
 - Javascript
+
 ---
 
 
