@@ -22,9 +22,9 @@ externalLink: false
 
 ![Screenshot](/portfolio/assets/images/NCDNT-screenshot.png)
 
-This main feature of this project is an API. The oversimplified interface demonstrated in the following video is only an example of a possible interface for interacting with the API.
+The main feature of this project is an API. The oversimplified interface demonstrated in the following video is only an example of a possible method for interacting with the API.
 
-Video Demo - NCDNT - [Demo](https://youtu.be/HnT_v9fv7Qc). This video demo runs a demo site interacting with the API.
+Video Demo - NCDNT - [Demo](https://youtu.be/HnT_v9fv7Qc). This video demo shows a basic UI for interacting with the API.
 
 ---
 

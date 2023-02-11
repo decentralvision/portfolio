@@ -3,14 +3,13 @@ title: "Whistle - Immutable crime reporting platform."
 layout: post
 date: 2019-04-22 22:10
 tag: 
-- ruby on rails
 - sinatra
 - ruby
 image: /portfolio/assets/images/sinatra.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This app is a basic implementation of an application called Whistle for reporting crimes"
 category: project
 author: tomkunkel
 externalLink: false
@@ -18,18 +17,15 @@ externalLink: false
 
 ![Screenshot](/portfolio/assets/images/whistle-screenshot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Demo video showing functionality of the Whistle app, including posting a crime report and viewing reports on a map - [Demo](https://youtu.be/ryzBVDvhwj4). 
 
 ---
 
 What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+- Sinatra
+- Ruby
+- MySQL
 
 ---
 
