@@ -6,13 +6,13 @@ tag:
 - ruby
 - ruby on rails
 - sqlite
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: /portfolio/assets/images/rails.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Decentralized charity fund."
 category: project
-author: johndoe
+author: tomkunkel
 externalLink: false
 ---
 
