@@ -29,5 +29,4 @@ What has inside?
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://github.com/decentralvision/whistle) 

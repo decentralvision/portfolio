@@ -30,4 +30,4 @@ Made with:
 
 ---
 
-
+[Check it out](https://github.com/decentralvision/stock-info) 
