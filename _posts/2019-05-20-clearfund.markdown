@@ -16,7 +16,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/clearfund-screenshot.png)
+![Screenshot](/assets/images/clearfund-screenshot.png)
 
 Video Demo - Clearfund - [Demo](https://youtu.be/on8pdVFjldM). This video demo runs through some of the basic features of clearfund. 
 
