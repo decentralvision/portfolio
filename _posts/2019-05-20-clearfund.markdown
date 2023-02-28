@@ -6,7 +6,7 @@ tag:
 - ruby
 - ruby on rails
 - sqlite
-image: /portfolio/assets/images/rails.png
+image: /assets/images/rails.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
