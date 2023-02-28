@@ -15,7 +15,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/whistle-screenshot.png)
+![Screenshot](/assets/images/whistle-screenshot.png)
 
 Demo video showing functionality of the Whistle app, including posting a crime report and viewing reports on a map - [Demo](https://youtu.be/ryzBVDvhwj4). 
 
