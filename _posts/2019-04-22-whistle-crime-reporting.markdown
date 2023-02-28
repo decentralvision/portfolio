@@ -5,7 +5,7 @@ date: 2019-04-22 22:10
 tag: 
 - sinatra
 - ruby
-image: /portfolio/assets/images/sinatra.png
+image: /assets/images/sinatra.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
