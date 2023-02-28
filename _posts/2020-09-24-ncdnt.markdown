@@ -20,7 +20,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/NCDNT-screenshot.png)
+![Screenshot](/assets/images/NCDNT-screenshot.png)
 
 The main feature of this project is an API. The oversimplified interface demonstrated in the following video is only an example of a possible method for interacting with the API.
 
