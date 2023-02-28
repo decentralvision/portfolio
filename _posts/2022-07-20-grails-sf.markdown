@@ -10,7 +10,7 @@ tag:
 - shopify
 - postgreSQL
 
-image: /portfolio/assets/images/flask-logo.png
+image: /assets/images/flask-logo.png
 headerImage: true
 projects: true
 star: true
@@ -21,7 +21,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/grailssf-screenshot.png)
+![Screenshot](/assets/images/grailssf-screenshot.png)
 
 GrailsSF Consignment Application. Some features of the application include:
 - Full role based ReactJS interface for all routes
@@ -36,7 +36,7 @@ GrailsSF Consignment Application. Some features of the application include:
 
 ---
 
-![Screenshot](/portfolio/assets/images/grailssf-screenshot-2.png)
+![Screenshot](/assets/images/grailssf-screenshot-2.png)
 
-![Screenshot](/portfolio/assets/images/grailssf-screenshot-3.png)
+![Screenshot](/assets/images/grailssf-screenshot-3.png)
 
