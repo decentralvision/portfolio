@@ -16,7 +16,7 @@ author: tomkunkel
 externalLink: false
 ---
 
-![Screenshot](/portfolio/assets/images/stock-info-screenshot.png)
+![Screenshot](/assets/images/stock-info-screenshot.png)
 
 Video Demo - Stock Info - [Demo](https://youtu.be/2Iv1WiB7D-Q). This video demo goes through a demo of the stock-info Ruby gem. The gem uses another Ruby gem called Nokogiri to scrape a website called finviz.com for data on stock.
 
