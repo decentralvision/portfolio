@@ -6,7 +6,7 @@ tag:
 - ruby
 - nokogiri
 - cli 
-image: /portfolio/assets/images/ruby.png
+image: /assets/images/ruby.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
